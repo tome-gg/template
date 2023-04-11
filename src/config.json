@@ -1,6 +1,6 @@
 {
   "headerText": "My growth",
-  "repositoryUrl": "https://github.com/myname/myrepo",
-  "evaluationDataSource": "https://raw.githubusercontent.com/myname/myrepo/main/evaluations/eval-self.yaml",
-  "trainingDataSource": "https://raw.githubusercontent.com/myname/myrepo/main/training/dsu-reports.yaml"
+  "repositoryUrl": "https://github.com/tome-gg/template",
+  "evaluationDataSource": "https://raw.githubusercontent.com/tome-gg/template/main/evaluations/eval-self.yaml",
+  "trainingDataSource": "https://raw.githubusercontent.com/tome-gg/template/main/training/dsu-reports.yaml"
 }
